@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/marcel/AndroidStudioProjects/CryptoApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest393388075566353043.xml:2:13-83
+INJECTED from /Users/marcel/AndroidStudioProjects/CryptoApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest393388075566353043.xml:2:13-83
+	package
+		INJECTED from /Users/marcel/AndroidStudioProjects/CryptoApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest393388075566353043.xml
+	xmlns:android
+		ADDED from /Users/marcel/AndroidStudioProjects/CryptoApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest393388075566353043.xml:2:23-81
+uses-sdk
+INJECTED from /Users/marcel/AndroidStudioProjects/CryptoApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest393388075566353043.xml reason: use-sdk injection requested
+INJECTED from /Users/marcel/AndroidStudioProjects/CryptoApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest393388075566353043.xml
+INJECTED from /Users/marcel/AndroidStudioProjects/CryptoApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest393388075566353043.xml
+	android:targetSdkVersion
+		INJECTED from /Users/marcel/AndroidStudioProjects/CryptoApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest393388075566353043.xml
+	android:minSdkVersion
+		INJECTED from /Users/marcel/AndroidStudioProjects/CryptoApp/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest393388075566353043.xml
